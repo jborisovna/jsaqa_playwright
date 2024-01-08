@@ -9,6 +9,8 @@ user.js
 *.code-workspace
 
 # Local History for Visual Studio Code
+.vscode/
+.vscode-test/
 .history/
 /test-results/
 /playwright-report/
